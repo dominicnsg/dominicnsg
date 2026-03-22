@@ -18,11 +18,13 @@
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
-<!--!![portfolio](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
-
-#### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
+<!--!![portfolio](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
+
+<!--!
+#### Studying in this moment:
+-->
 
 <!--!
 ## Contact
